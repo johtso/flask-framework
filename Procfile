@@ -1,1 +1,1 @@
-web: run-app.sh
+worker: ./run-app.sh
